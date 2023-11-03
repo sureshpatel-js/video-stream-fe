@@ -1,0 +1,13 @@
+.App {
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+}
+
+a {
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  padding: 2px 8px;
+  text-decoration: none;
+}
